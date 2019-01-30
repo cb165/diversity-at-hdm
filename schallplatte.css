@@ -1,0 +1,217 @@
+
+
+
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: helvetica, sans-serif;
+	color: gray;
+}
+
+ body{
+ 	background-color:#DCDCDC;
+ }
+
+
+header {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	height: 50px;
+	text-align: right;
+}
+
+
+
+h1 {
+	font-family:helvetica;
+	color:darkgrey;
+	font-size:450%;
+	}
+
+h2 {
+	font-family:helvetica;
+	font-size:150%;
+	}
+
+
+p {
+	color:grey;
+	font-family:helvetica;
+	font-size:15px
+	
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+nav ul {
+	list-style-type: none;
+		text-align: left;
+
+}
+
+nav li {
+	
+	display: inline;
+	margin-right: 50px;
+}
+
+a {
+	color: #777;
+	text-decoration: none;
+	font-family: helvetica, sans-serif;
+
+	
+}
+
+#navigation a:hover {color:white;}
+
+
+
+
+
+
+
+
+section {
+	width: 550px;
+	float: left;
+	padding: 15px;
+	margin-top: 15px;
+	margin-right:15px;
+	background-color: #F2F2F2;
+	border: 1px solid #C0C0C0;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+
+
+	
+.article {
+	height: 119px;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	
+}
+	
+.article img {
+	float: left;
+	padding: 5px;
+	margin-right: 10px;
+	border: 1px solid #DEDCD9;
+}
+	
+.article a {
+	font-size: 18px;
+}
+	
+
+
+
+
+
+
+
+
+
+aside {
+		width: 300px;
+		float: right;
+		padding: 20px;
+		margin-top: 15px;
+		background-color: #F2F2F2;
+		border: 1px solid #C0C0C0;
+		border-radius: 5px;
+		margin-bottom: 15px;
+		text-align: center;
+}
+		
+.sidebar img {
+	padding: 10px;
+	margin-top:15px;
+	border: 1px solid #DEDCD9;
+	float: center;
+}
+		
+.sidebar a {
+	font-size: 18px;
+	padding: 0px;
+}
+	
+.sidebar p {
+	padding: 5px;
+
+}		
+		
+	
+	
+	
+	
+	
+	
+	
+#footer a:hover {color:white;}
+	
+		
+footer {
+		background-color: #F2F2F2;
+		border: 1px solid #C0C0C0;
+		border-radius: 5px;
+		clear: both;
+		font-size: 15px
+	
+}
+	
+footer ul {
+	float: left;
+	list-style: none;
+	padding: 0px;
+	margin: 20px;
+}
+
+footer li {
+	margin-right: 15px;
+
+	display: inline;
+}
+
+footer p {
+	text-align: right;
+	margin-right: 50px;
+	padding: 5px;
+	color: #777;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
